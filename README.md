@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently project intern on **[Bright Coder Academy](http://www.brightcoders.com/)**
+- 🔭 I’m currently project intern on **[Bright Coders Academy](http://www.brightcoders.com/)**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
