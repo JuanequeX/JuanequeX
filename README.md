@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently project intern on **[Bright Coders Academy](http://www.brightcoders.com/)**
+- 🔭 I’m currently working on **[Magma Labs](https://www.magmalabs.io/)**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
