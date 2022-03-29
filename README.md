@@ -34,7 +34,7 @@
 </p>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 <a href = "https://www.linkedin.com/in/juan-ram%C3%B3n-guzm%C3%A1n-aguilar-084a42176/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/juanequeX"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/juanequex/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
