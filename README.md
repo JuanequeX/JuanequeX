@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
 
 <h1 align="center">Hi <br> I'm Juanequex</h1>
 <h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
