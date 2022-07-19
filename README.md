@@ -1,3 +1,5 @@
+<h1 align="center">Hi <br> I'm Juanequex</h1>
+<h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
 <div align="center"> <table border="0" cellpadding="0" cellspacing="0" style="width:400px;background-repeat:no-repeat;height:152px;border-radius:15px;background-size:cover;border-spacing:0px;color:rgb(0,0,0);font-family:Lato,Arial,San-serif;line-height:20px;table-layout:fixed;background-image:url('https://blog.magmalabs.io/wp-content/uploads/2022/04/Background.png')">
   <tbody>
     <tr>
@@ -30,8 +32,7 @@
     </tr>
   </tbody>
 </table></div>
-<h1 align="center">Hi <br> I'm Juanequex</h1>
-<h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
+
 
 
 ## 🙋‍♂️ About Me
