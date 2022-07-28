@@ -2,18 +2,20 @@
 <h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
 <div align="center"> <table border="0" cellpadding="0" cellspacing="0" style="width:400px;background-repeat:no-repeat;height:152px;border-radius:15px;background-size:cover;border-spacing:0px;color:rgb(0,0,0);font-family:Lato,Arial,San-serif;line-height:20px;table-layout:fixed;background-image:url('https://blog.magmalabs.io/wp-content/uploads/2022/04/Background.png')">
 
+   ## 🙋‍♂️ About Me
 
-## 🙋‍♂️ About Me
+<div align="left">
 
-- 🔭 I’m currently working on **[Magma Labs](https://www.magmalabs.io/)**
+    - 🔭 I’m currently working on **[Magma Labs](https://www.magmalabs.io/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+    - 🌱 I’m currently learning **Ruby on Rails**
 
-- 📫 Reach to me by my **E-mail: ramon.g.uz37@gmail.com**
+    - 📫 Reach to me by my **E-mail: ramon.g.uz37@gmail.com**
 
-- ⚡ Fun fact **I take photos and I like enjoy my free time learning new things**
+    - ⚡ Fun fact **I take photos and I like enjoy my free time learning new things**
 
-- 📄 Know about my experience in my **[Linkedin](https://www.linkedin.com/in/juan-ram%C3%B3n-guzm%C3%A1n-aguilar-084a42176/)**
+    - 📄 Know about my experience in my **[Linkedin](https://www.linkedin.com/in/juan-ram%C3%B3n-guzm%C3%A1n-aguilar-084a42176/)**
+</div>
 
 ## 🚀 Languages and Tools:
 
