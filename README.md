@@ -1,38 +1,6 @@
 <h1 align="center">Hi <br> I'm Juanequex</h1>
 <h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
 <div align="center"> <table border="0" cellpadding="0" cellspacing="0" style="width:400px;background-repeat:no-repeat;height:152px;border-radius:15px;background-size:cover;border-spacing:0px;color:rgb(0,0,0);font-family:Lato,Arial,San-serif;line-height:20px;table-layout:fixed;background-image:url('https://blog.magmalabs.io/wp-content/uploads/2022/04/Background.png')">
-  <tbody>
-    <tr>
-      <td align="left" valign="top" width="150px" height="152px" style="padding:0px">
-         <img alt="img" src="https://blog.magmalabs.io/wp-content/uploads/2022/04/juanequex.png"style="width:120px;height:152px;border-radius:15px;" tabindex="0">
-      </td>
-      <td align="left" valign="top" nowrap="" style="padding:0px">
-        <div style="margin-top: 25px;">
-          <p style="margin:0px 0px 10px;color:rgb(33,33,33)">
-            <span style="display:inline;font-weight:100; line-height: 16px; font-size:18px;font-style: normal;"><strong>Juan</strong> Aguilar</span>
-            <span style="display:inline"><br><span>
-            <span style="display:inline;color:#646565;font-weight:400;line-height: 16px;font-size: 12px;font-style:italic;">Software Engineer</span>
-            <span style="display:inline"><br></span>
-            <a href="mailto:ramon.guzman@magmalabs.io" style="color:#F84848;line-height: 16px;font-weight:100;font-size: 12px; text-decoration:none;display:inline;background-color:transparent" target="_blank">ramon.guzman@magmalabs.io</a>
-          </p>
-          <p style="margin:25px 0px 10px;line-height: 14px;font-size:12px;">
-            <span style="color:rgb(33,33,33);display:inline">México - USA</span>
-            <span style="display:inline"><br></span>
-            <a href="https://github.com/juanequex" style="color:#F84848;font-weight:500;font-size: 12px; margin-top: 12px;display:inline;background-color:transparent" target="_blank">Github</a>&nbsp;
-            <span style="color:#F84848">•</span>&nbsp;
-            <a href="https://twitter.com/juanequeX" style="color:#F84848;font-weight:500;font-size:12px;margin-top:12px;display:inline;background-color:transparent" target="_blank">Twitter</a>&nbsp;
-            <span style="color:#F84848">•</span>&nbsp;
-            <a href="https://www.magmalabs.io/" style="color:#F84848;font-weight:500;font-size:12px;margin-top:12px;display:inline;background-color:transparent" target="_blank">magmalabs.io</a>
-          </p>
-        </div>
-      </td>
-      <td style="width: 44px;">
-        <img alt="Magma logo" src="https://blog.magmalabs.io/wp-content/uploads/2022/04/Logo-MagmaLabs.webp"style="margin-top: 94px;width: 23px;">
-      </td>
-    </tr>
-  </tbody>
-</table></div>
-
 
 
 ## 🙋‍♂️ About Me
