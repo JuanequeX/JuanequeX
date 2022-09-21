@@ -12,7 +12,7 @@
 
 ⚡ Fun fact **I take photos and I like enjoy my free time learning new things**
 
-📄 Know about my experience in my **[website](juanequex.github,io)**
+📄 Know about my experience in my **[website](https://juanequex.github.io/)**
 
 ## 🚀 Languages and Tools:
 
