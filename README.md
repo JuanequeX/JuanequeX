@@ -8,11 +8,14 @@
 
 🌱 I’m currently learning **Ruby on Rails**
 
-📫 Reach to me by my **E-mail: ramon.guzman@magmalabas.io**
+📫 Reach to me by my **E-mail: juanequex@gmail.com**
 
 ⚡ Fun fact **I take photos and I like enjoy my free time learning new things**
 
-📄 Know about my experience in my **[website](https://juanequex.github.io/)**
+📝 Know about my experience in my **[website](https://juanequex.github.io/)**
+ 
+🌊 I'm member of **[Playas On Tech](https://playas-on-tech.github.io/)** Community
+
 
 ## 🚀 Languages and Tools:
 
