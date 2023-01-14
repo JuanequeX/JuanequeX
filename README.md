@@ -1,21 +1,19 @@
-<h1 align="center">Hi <br> I'm Juanequex</h1>
+<h1 align="center">Hi 🫶🏽 <br> I'm Juanequex</h1>
 <h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
 <div align="center"> <table border="0" cellpadding="0" cellspacing="0" style="width:400px;background-repeat:no-repeat;height:152px;border-radius:15px;background-size:cover;border-spacing:0px;color:rgb(0,0,0);font-family:Lato,Arial,San-serif;line-height:20px;table-layout:fixed;background-image:url('https://blog.magmalabs.io/wp-content/uploads/2022/04/Background.png')">
 
 ## 🙋‍♂️ About Me
+📝 Know about my experience in my **[website](https://juanequex.github.io/)**
 
+🌊 I'm member of **[Playas On Tech](https://playas-on-tech.github.io/)** Community
+
+📫 Reach to me by my **E-mail: juanequex@gmail.com**
+ 
 🔭 I’m currently working on <a href='https://www.magmalabs.io/'>MagmaLabs</a>
 
 🌱 I’m currently learning **Ruby on Rails**
 
-📫 Reach to me by my **E-mail: juanequex@gmail.com**
-
 ⚡ Fun fact **I take photos and I like enjoy my free time learning new things**
-
-📝 Know about my experience in my **[website](https://juanequex.github.io/)**
- 
-🌊 I'm member of **[Playas On Tech](https://playas-on-tech.github.io/)** Community
-
 
 ## 🚀 Languages and Tools:
 
