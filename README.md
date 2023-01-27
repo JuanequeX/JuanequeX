@@ -6,6 +6,8 @@
 ⛓ Know about my experience in my **[WEBSITE](https://juanequex.github.io/)**
 
 🌊 I'm member of **[Playas On Tech](https://playas-on-tech.github.io/)** Community
+ 
+✨ Give back in **[BrightCoders](https://github.com/bright-coders)** as Mentor
 
 📫 Reach to me by my **E-mail: juanequex@gmail.com**
  
