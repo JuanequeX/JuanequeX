@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://www.ruby-lang.org/es/" target="_blank"><img src="https://img.icons8.com/color/48/fa314a/ruby-programming-language.png"/> </a>
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.icons8.com/windows/48/fa314a/ruby-on-rails.png"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://iconos8.es/icon/yUdJlcKanVbh/next.js" /> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png" /> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
