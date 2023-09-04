@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Developer from Colima, Mexico.</h3>
 <div align="center"> <table border="0" cellpadding="0" cellspacing="0" style="width:400px;background-repeat:no-repeat;height:152px;border-radius:15px;background-size:cover;border-spacing:0px;color:rgb(0,0,0);font-family:Lato,Arial,San-serif;line-height:20px;table-layout:fixed;background-image:url('https://blog.magmalabs.io/wp-content/uploads/2022/04/Background.png')">
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Juanquex
 ⛓ Know about my experience in my **[WEBSITE](https://juanequex.github.io/)**
 
 🌊 I'm member of **[Playas On Tech](https://playas-on-tech.github.io/)** Community
@@ -13,9 +13,9 @@
  
 🔭 I’m currently working on <a href='https://www.magmalabs.io/'>MagmaLabs</a>
 
-🌱 I’m currently learning **Ruby on Rails** and **React JS**
+🌱 I’m currently learning **Ruby on Rails**
 
-⚡ Fun fact **I take photos and I like enjoy my free time learning new things**
+⚡ Fun fact **I take photos and I like to enjoy my free time ride bike**
 
 ## 🚀 Languages and Tools:
 
