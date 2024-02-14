@@ -10,8 +10,6 @@
   ✨ Give back in **[BrightCoders](https://github.com/bright-coders)** as Mentor
    
   🔭 I’m currently working on <a href='https://www.magmalabs.io/'>MagmaLabs</a>
-
-  📫 Reach to me by my **E-mail: juanequex@gmail.com**
   
   🌱 I’m currently learning **Ruby on Rails**
   
