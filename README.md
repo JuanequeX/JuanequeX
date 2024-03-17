@@ -3,17 +3,13 @@
 
 <div align="center">
  
-  ⛓ Know about my experience in my **[WEBSITE](https://juanequex.github.io/)**
+  ⛓ **[Myself](https://juanequex.github.io/)**
   
-  🌊 I'm member of **[Playas On Tech](https://playasontech.com/)** Community
-   
-  ✨ Give back in **[BrightCoders](https://github.com/bright-coders)** as Mentor
-   
-  🔭 I’m currently working on <a href='https://www.magmalabs.io/'>MagmaLabs</a>
+  🌊 **[Playas On Tech](https://playasontech.com/)**
   
-  🌱 I’m currently learning **Ruby on Rails**
+  🌱 I’m currently learning **Ruby** 
   
-  ⚡ Fun fact **I take photos and I like to enjoy my free time ride my bike**
+  ⚡ Fun fact **I enjoy shooting photos and riding MTB**
   
   ### 🚀 Languages and Tools:
 
